@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

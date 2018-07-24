@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libsemanticsspeechapi-release-v1.4.3-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/7f8b9c51c2d3606d424773f34c2ae79d3ad3d82f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/7f8b9c51c2d3606d424773f34c2ae79d3ad3d82f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

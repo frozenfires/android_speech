@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\b0360c786df1667f0f6cb1f03d06e575b54ea6d8\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangedeep_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangedeep_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\b0360c786df1667f0f6cb1f03d06e575b54ea6d8\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_deep_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_left_deep_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangedeep_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_orangedeep_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_redlight_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_redlight_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_input_btn.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bg_input_btn.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_cursor.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\edittext_cursor.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangelight_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangelight_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_redlight_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_redlight_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_main.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\back_main.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd_asr_popup_bg.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bd_asr_popup_bg.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangedeep_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangedeep_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greendeep_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_greendeep_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greendeep_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_greendeep_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greendeep_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_greendeep_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangelight_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_orangelight_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangelight_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_orangelight_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_redlight_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_redlight_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_reddeep_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_reddeep_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_reddeep_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_reddeep_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greenlight_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_greenlight_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greenlight_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_greenlight_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\b0360c786df1667f0f6cb1f03d06e575b54ea6d8\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_border.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\img_border.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.jpg",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\welcome.jpg"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_left_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_ing.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\voice_ing.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\b0360c786df1667f0f6cb1f03d06e575b54ea6d8\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_digital_bg.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_digital_bg.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_redlight_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_redlight_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangedeep_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_orangedeep_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_reddeep_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_reddeep_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_reddeep_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_reddeep_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\voice.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greenlight_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_greenlight_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greendeep_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_greendeep_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_left_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_recognizing.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_recognizing.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_digital_deep_bg.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_digital_deep_bg.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greenlight_pressed.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_right_greenlight_pressed.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout_corner_search.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\linearlayout_corner_search.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_head.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\back_head.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_img.jpg",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\back_img.jpg"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_recognizing_deep.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_recognizing_deep.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangelight_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangelight_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_frame_corner.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bg_frame_corner.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_login_btn.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bg_login_btn.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\b0360c786df1667f0f6cb1f03d06e575b54ea6d8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_deep_normal.9.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable\\bdspeech_left_deep_normal.9.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\drawable\\abc_btn_check_material.xml"
+    }
+]

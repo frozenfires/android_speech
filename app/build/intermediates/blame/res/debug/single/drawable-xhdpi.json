@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_mic.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_mic.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_wave.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_wave.png"
+    }
+]

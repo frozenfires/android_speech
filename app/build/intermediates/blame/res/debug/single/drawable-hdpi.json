@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_mask_deep.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_mask_deep.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_pressed_deep.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_pressed_deep.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_mask_light.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_mask_light.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_light.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_light.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_pressed_light.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_pressed_light.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_close_v2.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_close_v2.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_deep.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_deep.png"
+    }
+]

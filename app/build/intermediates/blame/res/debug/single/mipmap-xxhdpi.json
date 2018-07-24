@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_password.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_username.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_username.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

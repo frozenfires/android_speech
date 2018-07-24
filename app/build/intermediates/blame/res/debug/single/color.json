@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\b0360c786df1667f0f6cb1f03d06e575b54ea6d8\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\b0360c786df1667f0f6cb1f03d06e575b54ea6d8\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    }
+]

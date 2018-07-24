@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_all.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\xml\\setting_all.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_nlu.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\xml\\setting_nlu.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_offline.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\xml\\setting_offline.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_online.xml",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\xml\\setting_online.xml"
+    }
+]

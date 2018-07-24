@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_img"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-30dp"
+        android:src="@drawable/logo"
+        app:srcCompat="@drawable/logo" />
+
+    <!--<AutoCompleteTextView
+        android:id="@+id/myListView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="AutoCompleteTextView" />-->
+
+    <!--<ListView-->
+    <!--android:id="@+id/myListView"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" >-->
+
+    <!---->
+    <!--</ListView>-->
+
+    <LinearLayout
+        android:id="@+id/lin_username"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="-105dp"
+        android:background="@drawable/bg_frame_corner"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="15dp"
+            android:text="测量时间" />
+
+        <!--<Button
+            android:id="@+id/loginAccount"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@drawable/bg_input_btn"
+            android:text="交易金额"
+            android:textAlignment="textStart"
+            android:textColor="#666666"
+            android:textSize="18sp" />-->
+
+        <EditText
+            android:id="@+id/loginAccount"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="年月日"
+            android:maxLength="11"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/btn_loginAccount"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/img_border"
+            app:srcCompat="@drawable/voice" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin_password"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_frame_corner"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="15dp"
+            android:text="油料名称" />
+
+        <!--<EditText
+            android:id="@+id/loginPassword"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint=""
+            android:maxLength="11"
+            android:textSize="16sp" />-->
+
+
+        <!-- 标题 -->
+        <LinearLayout
+            android:layout_width="170dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <AutoCompleteTextView
+                android:id="@+id/loginPassword"
+                android:dropDownHorizontalOffset="-80dp"
+                android:dropDownWidth="250dp"
+                android:dropDownVerticalOffset="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@null"
+                android:completionThreshold="1"
+                android:dropDownHeight="140dp"
+                android:hint=""
+                android:imeOptions="actionSearch"
+                android:maxLength="25"
+                android:singleLine="true"
+                android:textColor="#262626"
+                android:textColorHint="#317F6D"
+                android:textCursorDrawable="@drawable/edittext_cursor"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/btn_loginPassword"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/img_border"
+            app:srcCompat="@drawable/voice" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin_cunyou"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_frame_corner"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="15dp"
+            android:text="存油数量" />
+
+        <EditText
+            android:id="@+id/cunyou"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="公斤"
+            android:maxLength="11"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/btn_cunyou"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/img_border"
+            app:srcCompat="@drawable/voice" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin_huoyou"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_frame_corner"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="15dp"
+            android:text="货油数量" />
+
+        <EditText
+            android:id="@+id/huoyou"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="公斤"
+            android:maxLength="11"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/btn_huoyou"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/img_border"
+            app:srcCompat="@drawable/voice" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lin_mark"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_frame_corner"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="15dp"
+            android:text="&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;备注" />
+
+        <EditText
+            android:id="@+id/mark"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="选填"
+            android:maxLength="11"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/btn_mark"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/img_border"
+            app:srcCompat="@drawable/voice" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="300dp"
+        android:layout_height="44dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/bg_login_btn"
+        android:text="确定"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:layout_weight="1"
+        android:gravity="bottom|center"
+        android:text="Copyright ©"
+        android:textSize="14sp" />
+    <TextView
+        android:id="@+id/result_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:textColor="#2b0303"
+        android:textSize="14sp" />
+
+
+</LinearLayout>

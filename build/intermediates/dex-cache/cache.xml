@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\97688b3fb81720702f75cf9bf2b55928f5e2d343\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af037b554138583e1865fe0367719df4c2258c36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\b50e769f7e1e2d472aad431d6db8a770edd99419\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf56eccd324267427ee0c45d1911a7d1456c043a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\8ab6b7a8c3719c7b10875211e196e534e93095a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da00c2cde2031f04bbbd129421cbde4b9345b9c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\f1517cb4c3f586add65e1392f943b5b36b5869e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e00cb02704d53110905c3a4a0719ab38417fe9a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\c558a5253fa6b7ec510c82ed7594119283c7d8ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c467cf710cc0cfaac425beaf609133b665285189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\750313086ce830ee1bf5600ad24000e2b83f7703\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21d4cbe60f4a9f2585e762d2fdee044bcaa970d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Program Files\gradle-download\caches\modules-2\files-2.1\com.github.SilenceDut\jpinyin\v1.0\cee108c24e97716026fa6e17bd2facd802e5981d\jpinyin-v1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cee108c24e97716026fa6e17bd2facd802e5981d">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\jpinyin-v1.0_cd131876159b1ba18ef3cfef1b3f93122ede54ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\26ee42d38bb56be6bec61d6cd480989af3dd1162\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c006ff1bdb0c06fec8da9442817889bae6b9c809\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\d289679b649525c1320af2b24473afef85f512b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09ee23ec3c1d64ede46c820439e3d8d0b2e0be0e">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_582c9fe61e8b2cb493defec1e02ed604e4a8e137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\5bb7cc074358af274237000ed6736dccbe475632\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f957629d2069e7bbbd06e439cc5523db218ca6b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_50599b8568cb76b810253b517f2576799bf3417c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\svn\android_speech\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9891f3f73b5a1d92d6f0332c532174b5a31f7267\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\svn\android_speech\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca49d5e2c95fe38c80e943e9a734f6f3c82c78e9">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e64ae8a1b0f8425e0ea14bad9b357b73e819b730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\8b9895e5f95686c7cd4fe4800aa3bea150e7f2bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d21f96bedb518f3ae5c9b216decc2d4e24ee383d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\svn\android_speech\app\libs\bdasr_V3_20170929_c8984af.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55aa76cbf8d86065845c33ea54697a18fa0b0e45">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\2\bdasr_V3_20170929_c8984af_a30ffdca2c567ebbb7217fbb20494b41476e378f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\c1636c3e4cbe12304c0054f8154483b59a1a12fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d17a1fb6ee3de917a9023f52ff16bd7343d5467c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\c562f218792756181df3fb71b59ee14576bfd59a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6107fcddca29b5b3ad14a3600b351ff918eca4bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\1b2684f5497d85cbf845a659a106131c29a951aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82cb38ac21833a836753b428eeff92da055b39dd">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e3f31d7e7d26b6b67b179f44721a99461c53977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\73fe14a202569deab88225b426763f4b8e93c69d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9ddcee982adb93aea05dca9646ab1c630c761a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_7b720520f8e3554bdcaf9bdfba268868def4b5ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android-sdk\android-sdk-windows\.android\build-cache\b0360c786df1667f0f6cb1f03d06e575b54ea6d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\svn\android_speech\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77c755cedbc5b74e2fbcef46d8b80a533353bceb\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\b0360c786df1667f0f6cb1f03d06e575b54ea6d8\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "F:\\Android-sdk\\android-sdk-windows\\.android\\build-cache\\73fe14a202569deab88225b426763f4b8e93c69d\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    }
+]

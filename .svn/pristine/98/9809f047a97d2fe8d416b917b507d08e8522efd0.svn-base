@@ -1,0 +1,12 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text1"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:gravity="left"
+    android:paddingBottom="5dip"
+    android:paddingTop="5dip"
+    android:layout_marginRight="5dip"
+    android:singleLine="true"
+    android:textColor="#ff000000"
+    android:textSize="16sp" />

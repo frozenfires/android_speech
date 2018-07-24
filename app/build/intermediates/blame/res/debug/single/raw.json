@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_start.mp3",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\raw\\bdspeech_recognition_start.mp3"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_success.mp3",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\raw\\bdspeech_recognition_success.mp3"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_speech_end.mp3",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\raw\\bdspeech_speech_end.mp3"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_error.mp3",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\raw\\bdspeech_recognition_error.mp3"
+    },
+    {
+        "merged": "E:\\svn\\android_speech\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_cancel.mp3",
+        "source": "E:\\svn\\android_speech\\app\\src\\main\\res\\raw\\bdspeech_recognition_cancel.mp3"
+    }
+]
